@@ -32,7 +32,8 @@ that actually cost marks, and a `main()` full of assertions that proves it works
 | **7** | Grid flood fill (BFS/DFS) | `7a` `7b` | ⬜ |
 | **8** | Stack — parsing & monotonic | `8a` `8b` `8c` | ⬜ |
 
-Families 1–7 cover **100 % of the 18 confirmed questions**. Family 8 closes the only
+Families 1–7 cover **100 % of the 18 confirmed questions** — see **[CONFIRMED-18.md](CONFIRMED-18.md)**
+for the question-by-question index of which file solves each one. Family 8 closes the only
 evidenced gap and takes the chance of meeting something unfamiliar from ~20 % to ~9 %.
 
 ⭐ **The three Fastenal-authored originals** — not on LeetCode, so grinding cannot reach them:
